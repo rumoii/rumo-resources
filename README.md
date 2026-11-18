@@ -8,7 +8,7 @@
 
 | 资源 | 说明 | 下载 |
 | --- | --- | --- |
-| [代理分流规则](resources/proxy-routing/README.md) | Android v2rayNG 与 Windows v2rayN 配套规则，不含节点 | [2026-10-16](https://github.com/rumoii/rumo-resources/releases/tag/proxy-routing-2026-10-16) |
+| [代理分流规则](resources/proxy-routing/README.md) | Android v2rayNG 与 Windows v2rayN 配套规则，不含节点 | [2026-11-18](https://github.com/rumoii/rumo-resources/releases/tag/proxy-routing-2026-11-18) |
 
 ## 使用与反馈
 
